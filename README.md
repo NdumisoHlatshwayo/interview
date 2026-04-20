@@ -1,63 +1,61 @@
-Hi, I'm Ndumiso Hlatshwayo
+ Ndumiso Hlatshwayo
 
-IT Student | Aspiring Software Developer | Multimedia Enthusiast
+## 📞 Contact
+- Address: 57327 Nanadi Dana St, Khayelitsha, Cape Town, 7784  
+- Phone: 067 683 1801  
+- Email: 231268351@mycput.ac.za  
+- GitHub: https://github.com/NdumisoHlatshwayo  
+- LinkedIn: https://www.linkedin.com/in/ndumiso-hlatshwayo-26a154266/  
 
-#About Me
+---
 
-I am a highly motivated Information Technology student at the Cape Peninsula University of Technology, specializing in Computer Science and Multimedia.
+## 🧑‍💻 Profile
+I am a highly motivated and hardworking Information Technology student at the Cape Peninsula University of Technology, specializing in Computer Science and Multimedia. I am passionate about technology, design, and problem-solving, with a strong interest in software development, digital media, and innovative solutions. I am currently seeking internship or entry-level opportunities to apply my academic knowledge in real-world environments and grow professionally.
 
-I’m passionate about:
+---
 
-💡 Problem-solving
-🌐 Web development
-🎨 Digital design
-🚀 Building innovative tech solutions
-I am currently seeking internship or entry-level opportunities to gain real-world experience and grow my skills.
+## 🎓 Education
+**False Bay TVET College**  
+*NQF Level 4 in Information Technology & Computer Science*  
+2019 – 2021  
 
-Technical Skills
+**Cape Peninsula University of Technology (CPUT)**  
+*Diploma in Information Technology (Computer Science & Multimedia)*  
+2023 – Present  
 
-Programming
+---
 
-Python
-Java
-JavaScript
-Web Development
+## 🛠️ Technical Skills
+- Programming: Python, Java, HTML, CSS, JavaScript  
+- Multimedia & Design Tools: Adobe Photoshop, Illustrator, XD, Figma  
+- Database Management: MySQL, SQL  
+- Web Development: Front-end & Back-end  
+- Networking Fundamentals  
+- Computer Hardware & Software Support  
 
-HTML
-CSS
-Front-end & Back-end Development
-Databases
+---
 
-MySQL
-SQL
-Design Tools
+## 💼 Projects
+- **Portfolio Website**  
+  Designed and developed a responsive web portfolio using HTML, CSS, and JavaScript.
 
-Adobe Photoshop
-Illustrator
-Adobe XD
-Figma
-Other Skills
+- **Brand Guide Design**  
+  Created a comprehensive brand guide for a company as part of a group assignment, defining visual identity and brand standards.
 
-Networking Fundamentals
-Computer Hardware & Software Support
-Projects
+- **FNB App Redesign (Group Project)**  
+  Contributed to redesigning the interface of a mobile banking app to improve user experience.
 
-🌍 Portfolio Website
-Built a responsive personal portfolio using HTML, CSS, and JavaScript
-Brand Guide Design
+- **FNB Wireframe Redesign Project**  
+  Designed wireframes to enhance usability and interface structure.
 
-Developed a full brand identity as part of a team project
-FNB App Redesign
+---
 
-Redesigned a banking app UI focusing on user experience
-Contact Me
+## 📌 References
+**Ms. M Hamman**  
+Email: hammanm@cput.ac.za  
 
-📍 Cape Town, South Africa
-📞 067 683 1801
-📧 231268351@mycput.ac.za
-
-🔗 GitHub
-🔗 LinkedIn# interview
+**Mr. Mafuratidze**  
+Email: Wellington.mafuratidze@falsebay.org.za  
 https://mycputac-my.sharepoint.com/:v:/g/personal/231268351_mycput_ac_za/IQCQPKze6ClTT6s9kraluxAKAWKN45biEexZD3IRGsToZzg
 
 Reflection on Digital Portfolio Development (STAR Method)
